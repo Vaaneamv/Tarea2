@@ -1,3 +1,8 @@
-# Tarea1
-Para la tarea utilizaremos Redis para poder realizar la parte de cache y utilizaremos el algoritmo de remoción LFU.
-La comunicación entre cliente y servidor utilizaremos grcp, el cual se utilizará para llamadas entre cliente-servidor y entre el inventario y el buscador del inventario.
+# Tarea2
+
+1. ¿Por qué Kafka funciona bien en este escenario?.
+      Funciona bien en este sistema, ya que el tener un clúster podemos tener más de un servidor y conectarlos para enviar información de centros distintos.
+
+2. Basado en las tecnologías que usted tiene a su disposición (Kafka, backend) ¿Qué haría usted para manejar una
+gran cantidad de usuarios al mismo tiempo?.
+      
